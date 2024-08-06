@@ -1,5 +1,6 @@
 # miniProjectCSS
 This is  a miniProject of CSS.
-![Uploading Screenshot (189).png…]()
-![Uploading Screenshot (190).png…]()
-![Uploading Screenshot (191).png…]()
+
+![Screenshot (189)](https://github.com/user-attachments/assets/df595ad7-636b-40b0-8d7b-7da63bdcd893)
+![Screenshot (190)](https://github.com/user-attachments/assets/27c09f4f-9366-4c2d-aa03-073ef84d95d4)
+![Screenshot (191)](https://github.com/user-attachments/assets/5baa0ff9-c3a5-4285-97b4-b5951bfd9290)
